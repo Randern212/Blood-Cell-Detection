@@ -1,3 +1,6 @@
 Dataset/
 data.csv
 .gitattributes
+test/
+train/
+val/
