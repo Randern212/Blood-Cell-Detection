@@ -6,3 +6,6 @@ train/
 val/
 runs/
 finalModels/
+yolo11n.pt
+yolo11s.pt
+dataset.cache
