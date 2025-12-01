@@ -4,3 +4,5 @@ data.csv
 test/
 train/
 val/
+runs/
+finalModels/
